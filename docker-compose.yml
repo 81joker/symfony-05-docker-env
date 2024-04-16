@@ -1,0 +1,16 @@
+version: '3'
+
+networks:
+  
+
+services:
+  
+  # nginx
+
+
+  # php
+
+
+  # mysql
+
+  # node

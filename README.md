@@ -8,10 +8,10 @@ docker exec -it container-name bash
 # symfony check:req
 
 # run node with this command
-1- docker exec -it container-name bash
-2- composer require encore 
-3- docker-compose run --rm  node-service npm install or docker-compose run --rm  node-service yarn install
-4- docker-compose run --rm  node-service npm run dev OR docker-compose run --rm  node-service npm run watch
+1- docker exec -it container-name bash <br />
+2- composer require encore <br />
+3- docker-compose run --rm  node-service npm install or docker-compose run --rm  node-service yarn install<br />
+4- docker-compose run --rm  node-service npm run dev OR docker-compose run --rm  node-service npm run watch<br />
 
 
 

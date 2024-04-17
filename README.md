@@ -7,6 +7,10 @@ docker exec -it container-name bash
 
 # symfony check:req
 
+# run node with this command
+<!-- docker-compose run --rm php74-service bash -->
+<!-- docker-compose run --rm node-service npm run watch -->
+
 
 #composer require doctrine
 
@@ -24,6 +28,13 @@ docker-compose run  --rm php74-service php bin/console doctrine:database:create
 <!-- mysql -uroor -psecret -->
 
 <!-- composer require encore -->
+<!-- docker-compose run --rm  node-service npm install
+docker-compose run --rm  node-service npm run dev -->
+
+
+
+
+
 
 
 <!-- 1- composer require doctrine

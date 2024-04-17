@@ -1,10 +1,9 @@
-# docker-compose up  -d --build
+docker-compose up  -d --build
 
 
-# docker exec --help
+docker exec --help
 docker exec -it container-name bash
-
-# symfony check:req
+## symfony check:req
 
 
 
